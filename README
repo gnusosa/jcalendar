@@ -1,0 +1,30 @@
+jcalendar
+
+An implementation of JQuery's Datepicker and Fullcalendar
+with the use of CodeIgniter.
+
+See http://jcalendar-oif2ot3o.dotcloud.com/ for a working demo.
+
+The demo runs on dotcloud.com, and it's running in nginx.
+See nginx.conf for redirect uri method. 
+
+
+FEATURES
+
+It features events (dates) rendering from a database.
+It works with Datepicker and Fullcalendar in day mode.
+It records drops/resizes of events into a database. 
+
+DEPENDENCIES
+
+* Codeigniter
+* PHP5
+
+
+LICENSE AND COPYRIGHT
+
+Copyright (C) 2011 Carlos Ivan Sosa
+
+This program is free software; you can redistribute it and/or modify it
+under the terms of either: the GNU General Public License as published
+by the Free Software Foundation; or the Artistic License.
